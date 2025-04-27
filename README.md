@@ -46,11 +46,11 @@ This repository contains a Power BI project that explores AdventureWorks sales d
 
 ## Data Model Screenshot
 
-```markdown
+
 ## Data Model
 
 ![Data Model Screenshot](datamodel.png)
-```
+
 
 ---
 
