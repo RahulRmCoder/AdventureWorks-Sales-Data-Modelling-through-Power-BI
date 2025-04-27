@@ -69,6 +69,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- [RahulRmCoder](https://github.com/RahulRmCoder)
+- [Rahul Rajasekharan Menon](https://github.com/RahulRmCoder)
 
 ---
